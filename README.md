@@ -71,4 +71,5 @@ Avid competitive badminton player and classically trained guitarist, demonstrati
 ---
 
 [![Visits](https://visitor-badge.laobi.icu/badge?page_id=1kauratus.1kauratus)](https://github.com/1kauratus)
-*Profile crafted with precision using GitHub Profile Readme Generator*
+
+![snake gif](https://github.com/1kauratus/1kauratus/blob/output/github-contribution-grid-snake.svg)
